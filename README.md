@@ -8,6 +8,8 @@
 
 ![npm bundle size](https://img.shields.io/bundlephobia/min/[package-name]?style=for-the-badge) ![npm](https://img.shields.io/npm/dm/[package-name]?style=for-the-badge) ![NPM](https://img.shields.io/npm/l/[package-name]?style=for-the-badge) ![npm](https://img.shields.io/npm/v/[package-name]?style=for-the-badge)
 
+</h2>
+
 # Why?
 
 Explain why this was created
